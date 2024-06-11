@@ -6,7 +6,7 @@
 - 🌱 In addition I'm social researcher(PhD), over 10 years experience working as a team-lead of a research group (3 to 10 members).
 - 🔭 I’m currently working at NGO which helps chidren with a rare desease: analize data for the Organization's reports, conduct sociological research in coolaboration with healthcare professionals. 
 - 🌱 I keep studying data analysis tools and instruments with free courses and webinars, my aim is to become a professional in data analysis and visualisation.
-- ✨ Goals for 2024-2025: to find a job as data analyst in the sphere, dedicated to social or health-care problems. 
+- ✨ Long-term goal: to find a job as data analyst in the sphere, dedicated to social or health-care problems. 
 - ✨ I'm open for a part-time job and free-lance projects. 
 - 📫 How to reach me: 
    - daoreshina@gmail.com
